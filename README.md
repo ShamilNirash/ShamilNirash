@@ -3,6 +3,6 @@
 
 <p>
 - 🎓 Undergraduate at University of Sri Jayewardenepura<br>  
-- 🌱 I’m currently learning <b>FULL STACK DEVELOPMENT.</b><br>
+- 🌱 I’m currently learning <b>PROGRAMMING.</b><br>
 - 📫 Reach me via <a href="mailto:shamilnirash@gmail.com">shamilnirash@gmail.com </a>
 </p>
