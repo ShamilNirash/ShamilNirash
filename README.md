@@ -1,5 +1,5 @@
-   <h1 style = "text-align:center;"> Hi I'm Shamil </h1>
-   <h2><center> Undergraduate at USJP </center> </h2>
+   <h1 align="center" dir="auto"> Hi I'm Shamil </h1>
+   <h2 align="center"> Undergraduate at USJP  </h2>
 
 <p>
 - 🎓 I’m Undergraduate at University of Sri Jayewardenepura<br>  
