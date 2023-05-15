@@ -1,5 +1,5 @@
-   <h1> Hi I'm Shamil </h1>
-   <h2> Undergraduate at USJP </h2>
+   <h1><center> Hi I'm Shamil </center></h1>
+   <h2><center> Undergraduate at USJP </center> </h2>
 
 <p>
 - 🎓 I’m Undergraduate at University of Sri Jayewardenepura<br>  
