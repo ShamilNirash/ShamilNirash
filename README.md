@@ -1,4 +1,4 @@
-   <h1><center> Hi I'm Shamil </center></h1>
+   <h1 style = "text-align:center;"> Hi I'm Shamil </h1>
    <h2><center> Undergraduate at USJP </center> </h2>
 
 <p>
