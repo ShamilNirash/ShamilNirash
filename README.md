@@ -4,5 +4,5 @@
 <p>
 - 🎓 I’m Undergraduate at University of Sri Jayewardenepura<br>  
 - 🌱 I’m currently learning <b>FULL STACK DEVELOPMENT.</b><br>
-- 📫 Reach me via <a>shamilnirash@gmail.com </a>
+- 📫 Reach me via <a href="shamilnirash@gmail.com">shamilnirash@gmail.com </a>
 </p>
