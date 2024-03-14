@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 🎓 Undergraduate at [University of Sri Jayewardenepura](University of Sri Jayewardenepura)
+- 🎓 Undergraduate at University of Sri Jayewardenepura
 
 - 💬 Ask me about **Angular, Html, Css, JavaScript, Typescript**
 
