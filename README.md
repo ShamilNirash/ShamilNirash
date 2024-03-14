@@ -17,8 +17,8 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamil-nirash-5251a1219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamil-nirash-5251a1219/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shamil.mahagamage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shamil.mahagamage/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shamil-nirash-5251a1219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamil-nirash-5251a1219/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shamil.mahagamage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shamil.mahagamage/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
