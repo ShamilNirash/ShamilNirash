@@ -7,7 +7,7 @@
 
 - 🎓 Undergraduate at University of Sri Jayewardenepura
 
-- 💬 Ask me about **Angular, Html, Css, JavaScript, Typescript**
+- 💬 Ask me about **Angular, Html, Css, JavaScript, Typescript,MongoDb, Express.js, React**
 
 - 📫 How to reach me **shamilnirash@gmail.com**
 
